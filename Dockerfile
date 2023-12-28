@@ -11,7 +11,7 @@ LABEL Maintainer="roushan.me17"
 WORKDIR /usr/app/srс
 
 #to COPY the remote file at working directory in container
-COPY main-error.py ./
+COPY main.py ./
 # Now the structure looks like this '/usr/app/src/test.py'
 
 
