@@ -9,7 +9,7 @@ def check_fermat_theorem(n,m):
 theorem_proven = check_fermat_theorem(2)
 print("Тут я проверял тригерр на питон файлы и сломал скрипт")
 print("А тут перезаливал, потому что первая версия тригера не стработала")
-print("Попытка2")
+print("Попытка3")
 if theorem_proven:
     print("Великая теорема Ферма доказана для n=2")
 else:
