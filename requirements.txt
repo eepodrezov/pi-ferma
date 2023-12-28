@@ -1,1 +1,1 @@
-python3-dev
+pytest==7.4.3
