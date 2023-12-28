@@ -1,8 +1,8 @@
-def check_fermat_theorem(n):
+def check_fermat_theorem(n, m):
     for a in range(1, 51):
         for b in range(1, 51):
             for c in range(1, 51):
-                if a**n + b**n == c**n:
+                if a**n + b**n + m == c**n:
                     return True
     return False
 
